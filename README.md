@@ -1,4 +1,4 @@
-# React Sneaker
+# React Sneaker1
 
 一个基于 React、Typescript 构建的球鞋比价网站，对比鞋子在 dewu, stockx, goat 三个网站的价格
 
